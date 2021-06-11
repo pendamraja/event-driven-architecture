@@ -1,3 +1,3 @@
 # event-driven-architecture
 
-Consume data from the kafka producer store in mongodb.
+Consume data from the kafka producer and store in mongodb.
